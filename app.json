@@ -1,16 +1,16 @@
 {
   "name": "YouTube Downloader Bot",
-  "description": "A telegram bot To Download Youtube Files ",
-  "logo": "https://telegra.ph/file/6a3b1febade2313dd0dca.jpg",
+  "description": "My Trial Telegram Bot",
+  "logo": "https://telegra.ph//file/1d689928ce7c04d485e65.jpg",
   "keywords": [
     "Youtube","YoutubeDownloader"
   ],
-  "repository": "https://github.com/aryanvikash/Youtube-Downloader-Bot",
+  "repository": "https://github.com/Arshad15809k/FirstBot",
   "success_url": "https://t.me/youtubdlbot",
-  "website": "https://github.com/aryanvikash/Youtube-Downloader-Bot",
+  "website": "https://github.com/Arshad15809k/FirstBot",
   "env": {
-        "API_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
-        "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
+        "API_ID": {"description": "Get this value from https://my.telegram.org", "required": false},
+        "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": false},
         "BOT_TOKEN": {"description": "Get Bot Token From BotFather Bot","required": true}
   },
       "buildpacks": [
