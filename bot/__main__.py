@@ -1,3 +1,5 @@
+pip install gitpython
+sudo apt-get install python3-git
 from pyrogram import Client
 import config
 
