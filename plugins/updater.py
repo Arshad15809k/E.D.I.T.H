@@ -11,7 +11,7 @@
 # <https://www.github.com/TeamUltroid/Ultroid/blob/main/LICENSE/>.
 
 """
-
+pip install gitpython
 ✘ Commands Available -
 
 • `.update`
