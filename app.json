@@ -9,8 +9,8 @@
   "success_url": "https://t.me/youtubdlbot",
   "website": "https://github.com/aryanvikash/Youtube-Downloader-Bot",
   "env": {
-        "API_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
-        "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
+        "API_ID": {"description": "Get this value from https://my.telegram.org", "required": false},
+        "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": false},
         "BOT_TOKEN": {"description": "Get Bot Token From BotFather Bot","required": true}
   },
       "buildpacks": [
